@@ -56,7 +56,7 @@ There are various languages, each made to fulfill a certain need. For example, M
 
 ## 1. What is web development?
 
-In HackYourFuture we focus on `web` programmming (also known as `web development`): writing code that creates websites and web applications. Look at the following video to learn about what you'll be doing:
+In this course we focus on `web` programmming (also known as `web development`): writing code that creates websites and web applications. Look at the following video to learn about what you'll be doing:
 
 - [What does a web developer do?](https://www.youtube.com/watch?v=GEfuOMzRgXo)
 
