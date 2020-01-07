@@ -1,0 +1,11 @@
+"use strict";
+console.log ("Hello world! in English");
+console.log ("Hello Wêreld! in Afrikaans");
+console.log ("مرحبا بالعالم! in Arabic");
+console.log ("Sawubona Mhlaba! in Zulu");
+console.log ("Selam Dünya! in Turkish");
+console.log ("こんにちは世界！ in Japanese");
+console.log ("שלום עולם! in Hebrew");
+console.log ("Olá Mundo! in Portuguese");
+console.log ("Salom Dunyo! in Uzbek");
+console.log ("Hej världen! in Swedish");
